@@ -19,6 +19,8 @@ import Syntax as sx
 import merge_log
 from collections import Counter
 
+import scikt.learn
+
 
 reader = sx.DataReader()
 
